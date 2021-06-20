@@ -19,8 +19,8 @@ Exiba todos os números pares até o valor de entrada, sendo um em cada linha.
 Exemplos de Entrada  | Exemplos de Saída
 ------------- | -------------
 6 | 2
- | 4
- | 6
+. | 4
+. | 6
 
 
 #### Java　
